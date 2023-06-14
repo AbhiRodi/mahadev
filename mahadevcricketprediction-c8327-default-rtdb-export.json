@@ -1,0 +1,66 @@
+{
+  "ScheduleMatch" : [ {
+    "date" : "14/06/2023",
+    "id" : 1,
+    "teamA" : "Sydney Thunder",
+    "teamB" : "Brisbane Heat",
+    "time" : "08:15 AM GMT / 07:15 PM LOCAL",
+    "venue" : "Manuka Oval, Canberra"
+  }, {
+    "date" : "07/12/2021",
+    "id" : 2,
+    "teamA" : "Melbourne Renegades",
+    "teamB" : "Adelaide Strikers",
+    "time" : "08:15 AM GMT / 07:15 PM LOCAL",
+    "venue" : "Docklands Stadium, Melbourne"
+  }, {
+    "date" : "08/12/2021",
+    "id" : 3,
+    "teamA" : "Hobart Hurricanes",
+    "teamB" : "Sydney Sixers",
+    "time" : "07:35 AM GMT / 06:35 PM LOCAL",
+    "venue" : "Aurora Stadium, Launceston"
+  }, {
+    "date" : "08/12/2021",
+    "id" : 4,
+    "teamA" : "Perth Scorchers",
+    "teamB" : "Brisbane Heat",
+    "time" : "10:35 AM GMT / 06:35 PM LOCAL",
+    "venue" : "Perth Stadium, Perth"
+  }, {
+    "date" : "09/12/2021",
+    "id" : 5,
+    "teamA" : "Adelaide Strikers",
+    "teamB" : "Melbourne Renegades",
+    "time" : "08:15 AM GMT / 06:45 PM LOCAL",
+    "venue" : "Adelaide Oval, Adelaide"
+  }, {
+    "date" : "10/12/2021",
+    "id" : 6,
+    "teamA" : "Melbourne Stars",
+    "teamB" : "Sydney Thunder",
+    "time" : "08:15 AM GMT / 07:15 PM LOCAL",
+    "venue" : "Melbourne Cricket Ground, Melbourne"
+  }, {
+    "date" : "11/12/2021",
+    "id" : 7,
+    "teamA" : "Sydney Sixers",
+    "teamB" : "Hobart Hurricanes",
+    "time" : "07:35 AM GMT / 06:35 PM LOCAL",
+    "venue" : "Sydney Cricket Ground, Sydney"
+  }, {
+    "date" : "11/12/2021",
+    "id" : 8,
+    "teamA" : "Perth Scorchers",
+    "teamB" : "Adelaide Strikers",
+    "time" : "10:30 AM GMT / 06:30 PM LOCAL",
+    "venue" : "Perth Stadium, Perth"
+  }, {
+    "date" : "12/12/2021",
+    "id" : 9,
+    "teamA" : "Sydney Thunder",
+    "teamB" : "Melbourne Stars",
+    "time" : "08:15 AM GMT / 07:15 PM LOCAL",
+    "venue" : "Sydney Showground Stadium, Sydney"
+  } ]
+}
